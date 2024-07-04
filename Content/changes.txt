@@ -1,0 +1,156 @@
+Changes in Jaye's version:
+
+Added the following characters:
+
+By Jaye:
+=====
+Apple Bloom (Future)
+Applejack (Apocalypse)
+Applejack (Future)
+Aunt Holiday
+Auntie Lofty
+Cherry Jubilee
+Cinder Glow
+Clear Sky
+Crackle Cosette
+Feather Bangs
+Feather Flatterfly
+Fern Flare
+Fire Flare
+Firelight
+Flash Magnus
+Fluttershy (Tribal)
+Fluttershy (Future)
+Gabby
+Inky Rose
+Li'l Cheese
+Lighthoof
+Lily Lace
+Mage Meadowbrook
+Mean Applejack
+Mean Fluttershy
+Mean Pinkie Pie
+Mean Rainbow Dash
+Mean Rarity
+Mean Twilight Sparkle
+Minty
+Mudbriar
+Parish Nandermane
+Pinkie Pie (Future)
+Pinkie Pie (Tribal)
+Quarter Hearts
+Quibble Pants
+Rainbow Dash (Apocalypse)
+Rainbow Dash (Future)
+Rainbow Dash (Night Guard)
+Rarity (Future)
+Rarity (Night Maid)
+Rockhoof
+Sassaflash
+Sassy Saddles
+Scootaloo (Future)
+Shimmy Shake
+Sky Stinger
+Snowfall Frost
+Sparkling Brook
+Sprout Greenhoof
+Star Swirl the Bearded
+Star Tracker
+Starstreak
+Stellar Flare
+Strawberry Sunrise
+Stygian
+Sun Glimmer
+Swift Reply
+Tender Taps
+Terramar
+Twilight Sparkle (Future)
+Vapor Trail
+Wind Rider
+Wind Sprint
+Winter Flame
+
+
+
+By Bot-chan:
+=====
+Coconut Cream
+Kerfuffle
+Rain Shine
+Toola Roola
+
+By ponynoia:
+=====
+Jet Set
+Upper Crust
+
+By Blaze5565:
+=====
+Valley Trend
+
+
+
+Updated several existing characters:
+========
+Applejack: added Apple Jewel outfit
+Cozy Glow: added Alicorn form
+Cranky Doodle Donkey: added Steven Magnet hair from season 5
+Derpy Hooves: added mailmare uniform
+Flash Sentry: added uniformless form
+Lightning Dust: added Washouts uniform and "flyfast" sprites
+Princess Celestia: added vacation outfit from season 9
+Princess Luna: added vacation outfit from season 9
+Rainbow Dash: added Wonderbolt uniform and new behaviours
+Soarin': added unifromless form
+Soigne Folio: fixed GIF loop points 
+Spitfire: added sergeant uniform
+Stella: fixed GIF loop points
+Sunset Shimmer: Updated colours and dialogue to match Friendship Games and onward
+Thunderlane: added Wonderbolt uniform and new behaviours
+Trixie: added Alicorn Amulet outfit from season 3
+Twilight Velvet: corrected eye shape
+
+
+
+Renamed several existing characters:
+========
+Angel ---> Angel Bunny
+Blues ---> Noteworthy
+Button's Mom ---> Cream Heart
+Changeling ---> Changeling (Classic)
+Changeling (Lv2) #1 ---> Changeling (New) #1
+Changeling (Lv2) #2 ---> Changeling (New) #2
+Changeling (Lv2) #3 ---> Changeling (New) #3
+Changeling (Lv2) #4 ---> Changeling (New) #4
+Changeling (Lv2) #5 ---> Changeling (New) #5
+Changeling (Lv2) #6 ---> Changeling (New) #6
+Countess Coloratura (Rara) ---> Coloratura
+Gustave ---> Gustave le Grand
+John de Lancie ---> Professor Lancie
+Lauren Faust ---> Fausticorn
+Lily ---> Lily Valley
+Lyra ---> Lyra Heartstrings
+Mrs Sparkle ---> Twilight Velvet
+Nerdy Delegate ---> Frazzle Rock
+Octavia ---> Octavia Melody
+PP Fili-Second ---> Pinkie Pie (Fili-Second)
+PP Hum Drum ---> Spike (Hum Drum)
+PP Masked Matter-Horn ---> Twilight Sparkle (Masked Matter-Horn)
+PP Mistress Mare-velous ---> Applejack (Mistress Mare-velous)
+PP Radiance ---> Rarity (Radiance)
+PP Saddle Rager ---> Fluttershy (Saddle Rager)
+PP Zapp ---> Rainbow Dash (Zapp)
+Princess Celestia (Alternate Filly) ---> Princess Celestia (Young)
+Princess Ember ---> Dragon Lord Ember
+Princess Luna (Season 1) ---> Princess Luna (Classic)
+Princess Twilight Sparkle ---> Twilight Sparkle (Princess)
+Raindrops ---> Sunshower Raindrops
+Rarity's Father ---> Hondo Flanks
+Rarity's Mother ---> Coconut Crumbles
+Sparkler --> Amethyst Star
+Starlight Glimmer (Season 5) ---> Starlight Glimmer (Classic)
+Sunset Shimmer ---> Sunset Shimmer (Classic)
+Tirek ---> Lord Tirek
+Twilight Sparkle (Crystal Prep) ---> Twilight Sparkle (Sci-Twi)
+
+
