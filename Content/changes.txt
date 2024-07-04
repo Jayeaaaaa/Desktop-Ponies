@@ -1,5 +1,9 @@
 Changes in Jaye's version:
 
+- Several characters now have new dialogue to match their later appearances. Try to find them all!
+- The reformed Changelings by Bot-chan can now transform themselves into different ponies
+- The Wonderbolts group has been updated to add Rainbow Dash and Thunderlane into the group!
+
 Added the following characters:
 
 By Jaye:
@@ -13,6 +17,7 @@ Cherry Jubilee
 Cinder Glow
 Clear Sky
 Crackle Cosette
+Daybreaker
 Feather Bangs
 Feather Flatterfly
 Fern Flare
@@ -40,6 +45,7 @@ Pinkie Pie (Future)
 Pinkie Pie (Tribal)
 Quarter Hearts
 Quibble Pants
+Radiant Hope
 Rainbow Dash (Apocalypse)
 Rainbow Dash (Future)
 Rainbow Dash (Night Guard)
@@ -61,6 +67,7 @@ Stellar Flare
 Strawberry Sunrise
 Stygian
 Sun Glimmer
+Sweetie Belle (Future)
 Swift Reply
 Tender Taps
 Terramar
@@ -115,6 +122,7 @@ Twilight Velvet: corrected eye shape
 Renamed several existing characters:
 ========
 Angel ---> Angel Bunny
+Bon-Bon -----> Sweetie Drops
 Blues ---> Noteworthy
 Button's Mom ---> Cream Heart
 Changeling ---> Changeling (Classic)
